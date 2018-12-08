@@ -1,0 +1,13 @@
+{
+    "name": "baykier/lumen-demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "baykier",
+            "email": "1035666345@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
